@@ -50,3 +50,5 @@ print(f"Addition and Subtraction: 3 + 4 - 2 = {add_sub_result}")
 complete_pemdas_result = (2 + 3) * 4 ** 2 / 2 - 1  # ((5) * 16) / 2 - 1 = 80 / 2 - 1 = 40 - 1 = 39
 print(f"Complete PEMDAS Example: (2 + 3) * 4 ** 2 / 2 - 1 = {complete_pemdas_result}")
 
+
+
